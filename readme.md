@@ -16,4 +16,7 @@
 10. Run alertcheck.py and hand_detection.py
 
 
+Project Link : 
+https://youtu.be/aga2rtjx4HM
+
 '''
